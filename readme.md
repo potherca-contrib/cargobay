@@ -6,19 +6,17 @@ Cargo Bay is a utility library with some useful and commonly used components and
 
 
 ### Includes
-- [Scroll-to](src/scroll-to/)
-- [Scroll-to-top](src/scroll-to-top/)
-- [Toggle](src/toggle/)
-- [Has space](src/has-space/)
-- [Cookie-consent bar](src/cookie-consent/)
-- [Responsive audioplayer](src/audioplayer/)
-- [Videolink](src/videolink/)
-- [Full image background fallack](src/full-img-bg/)
-- [Tabs](src/tabs/)
-- [Sidebar Toggle](src/sidebar-toggle/)
-- [Float label form](src/float-label-form/)
-
-
+- [Cookie-consent bar](src/cbCookieConsent/)
+- [Float label form](src/cbFloatLabelForm/)
+- [Full image background fallback](src/cbFullImgBg/)
+- [Has space](src/cbHasSpace/)
+- [Responsive audioplayer](src/cbAudioplayer/)
+- [Scroll-to](src/cbScrollTo/)
+- [Scroll-to-top](src/cbScrollToTop/)
+- [Sidebar Toggle](src/cbSidebarToggle/)
+- [Tabs](src/cbTabs/)
+- [Toggle](src/cbToggle/)
+- [Videolink](src/cbVideolink/)
 
 ### Installing using Bower
 ```
